@@ -13,14 +13,14 @@ body {
 }
 /*--footer--*/ 
 footer {
-  color: white;
+  color: rgb(32, 0, 242);
   position: fixed;
   bottom: 0;
   width: 100%;
 }
 /*--navbar--*/ 
 nav {
-  background-color: #0077cc;
+  background-color: #1283d3;
   padding: 15px;
   position: fixed;
   top: 0;
@@ -46,4 +46,13 @@ nav a:hover {
 section {
   padding: 100px 50px 50px;
   min-height: 100vh;
+}
+
+footer {
+  color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+ background-color: #005fa3;
+
 }
